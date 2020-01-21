@@ -597,6 +597,7 @@ namespace XamForms.Controls
         {
 			button.BackgroundPattern = null;
 			button.BackgroundImage = null;
+			button.IsSelected = false;
                 
             Device.BeginInvokeOnMainThread(() =>
             {

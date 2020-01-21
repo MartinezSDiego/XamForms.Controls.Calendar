@@ -1,0 +1,14 @@
+M:\Datos Diego\Repositories\Xamarin\XamForms.Controls.Calendar\XamForms.Controls.Calendar\bin\Release\XamForms.Controls.Calendar.dll
+M:\Datos Diego\Repositories\Xamarin\XamForms.Controls.Calendar\XamForms.Controls.Calendar\bin\Release\XamForms.Controls.Calendar.pdb
+M:\Datos Diego\Repositories\Xamarin\XamForms.Controls.Calendar\XamForms.Controls.Calendar\bin\Release\Xamarin.Forms.Core.dll
+M:\Datos Diego\Repositories\Xamarin\XamForms.Controls.Calendar\XamForms.Controls.Calendar\bin\Release\Xamarin.Forms.Platform.dll
+M:\Datos Diego\Repositories\Xamarin\XamForms.Controls.Calendar\XamForms.Controls.Calendar\bin\Release\Xamarin.Forms.Xaml.dll
+M:\Datos Diego\Repositories\Xamarin\XamForms.Controls.Calendar\XamForms.Controls.Calendar\bin\Release\Xamarin.Forms.Core.pdb
+M:\Datos Diego\Repositories\Xamarin\XamForms.Controls.Calendar\XamForms.Controls.Calendar\bin\Release\Xamarin.Forms.Core.xml
+M:\Datos Diego\Repositories\Xamarin\XamForms.Controls.Calendar\XamForms.Controls.Calendar\bin\Release\Xamarin.Forms.Platform.pdb
+M:\Datos Diego\Repositories\Xamarin\XamForms.Controls.Calendar\XamForms.Controls.Calendar\bin\Release\Xamarin.Forms.Xaml.pdb
+M:\Datos Diego\Repositories\Xamarin\XamForms.Controls.Calendar\XamForms.Controls.Calendar\bin\Release\Xamarin.Forms.Xaml.xml
+M:\Datos Diego\Repositories\Xamarin\XamForms.Controls.Calendar\XamForms.Controls.Calendar\obj\Release\XamForms.Controls.Calendar.csprojAssemblyReference.cache
+M:\Datos Diego\Repositories\Xamarin\XamForms.Controls.Calendar\XamForms.Controls.Calendar\obj\Release\XamForms.Controls.Calendar.csproj.CopyComplete
+M:\Datos Diego\Repositories\Xamarin\XamForms.Controls.Calendar\XamForms.Controls.Calendar\obj\Release\XamForms.Controls.Calendar.dll
+M:\Datos Diego\Repositories\Xamarin\XamForms.Controls.Calendar\XamForms.Controls.Calendar\obj\Release\XamForms.Controls.Calendar.pdb
